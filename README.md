@@ -37,7 +37,7 @@ O objetivo deste projeto é aplicar conceitos de **lógica de programação**, *
 - **Template Strings** → Criação dinâmica de conteúdo HTML  
 
 ## 🖼️ Preview do Projeto  
-![Interface do Amigo Secreto](./assets/imagem-projeto.png)
+![Interface do Amigo Secreto](./assets/image_projeto.png)
 *Exemplo da aplicação em funcionamento*  
 
 ---
@@ -45,3 +45,4 @@ O objetivo deste projeto é aplicar conceitos de **lógica de programação**, *
 ✨ Desenvolvido durante a **Formação JavaScript - Alura + Oracle Next Education**  
 
 > Um projeto simples que mostra como aplicar a programação para resolver problemas reais de forma prática e divertida! 🎉  
+
